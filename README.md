@@ -1,36 +1,29 @@
-<!-- ================== Header com Panda ================== -->
-<table>
-  <tr>
-    <!-- Nome e descrição à esquerda -->
-    <td>
-      <h1>Brendha Barbosa</h1>
-      <p>
-        Currently pursuing a degree in Systems Analysis and Development, I am learning programming languages 
-        and applying them in hands-on projects. My goal is to gain practical experience and understand 
-        how to create functional solutions.
-      </p>
-    </td>
-    <td align="right" width="120">
-      <img src="assets/panda.gif" alt="Pandinha trabalhando" width="100"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github.com/brendha-barbosa/brendha-barbosa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-<!-- ================== GitHub Stats ================== -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brendha-barbosa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendha-barbosa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<!-- ================== Badges ================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+Hi, I'm **Brendha**, 18 years old. 
+I am an **Analysis and Systems Development (ADS) student**, dedicated to expanding my knowledge in programming and building innovative solutions. I focus on **learning new technologies, experimenting with ideas, and turning concepts into real-world projects**.  
+
+Currently, I am developing my skills in **JavaScript, Python, HTML, and CSS**, aiming to become a versatile developer capable of contributing to both **front-end and back-end projects**.  
+
+I enjoy challenges, collaboration, and creating tools that are **productive, creative, and impactful**.  Outside the world of coding, I enjoy, playing video games, listening to music, and reading books!
+
+
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
