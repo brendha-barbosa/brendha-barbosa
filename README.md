@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi, I'm **Brendha**, 18 years old. 
+Hi, I'm **Brendha**, 19 years old. 
 I am an **Analysis and Systems Development (ADS) student**, dedicated to expanding my knowledge in programming and building innovative solutions. I focus on **learning new technologies, experimenting with ideas, and turning concepts into real-world projects**.  
 
 Currently, I am developing my skills in **JavaScript, Python, HTML, and CSS**, aiming to become a versatile developer capable of contributing to both **front-end and back-end projects**.  
